@@ -2,7 +2,7 @@ class ItemModel {
   final String id;
   final String title;
   final String description;
-  final String status; // 'Lost' or 'Found'
+  final String status; 
   final String location;
   final String contactInfo;
   final String? imagePath; 
